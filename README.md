@@ -1,43 +1,36 @@
-# [Astro](https://astro.build) GitHub Pages Template
+# blackgyalbites
 
-## 🤖 Automatic Deployment to GitHub Pages
+## Template for No-touch Menus and Host Static Pages Built with Any Framework on GitHub Pages
 
-This minimal Astro project template comes with a [GitHub Action](https://github.com/features/actions) that automatically deploys your site to [GitHub Pages](https://pages.github.com/).
+![screenshot of website with 3 buttons that read: food menu, drinks menu, and catering menu. on the right of it is a screenshot of the drinks menu](https://user-images.githubusercontent.com/22990146/182385358-364d812f-a5a8-48ad-9ac7-3bf9e14d9614.png)
 
-For more information, please see our complete deployment guide—[Deploy your Astro Site to GitHub Pages](https://docs.astro.build/en/guides/deploy/github/).
+### Website built with Astro to display restaurant menus when users scan a QR code.
 
-## 🚀 Project Structure
+## Powered By GitHub Pages
 
-Inside of your Astro project, you'll see the following folders and files:
+This is a demonstration to show developers that they can build and host static websites using any framework. 
+See more example frameworks hosted on GitHub Pages:
 
-```
-/
-├── public/
-├── src/
-│   └── pages/
-│       └── index.astro
-└── package.json
-```
+- [HTML and CSS](https://github.com/blackgirlbytes/blackgyalbites)
+- [Next.js and Tailwind CSS](https://github.com/blackgirlbytes/blackgyalbites-nextjs)
+- [Astro](https://github.com/blackgirlbytes/blackgyalbites-astro)
 
-Astro looks for `.astro` or `.md` files in the `src/pages/` directory. Each page is exposed as a route based on its file name.
+Link to live site: https://blackgirlbytes.github.io/blackgyalbites-astro/
 
-There's nothing special about `src/components/`, but that's where we like to put any Astro/React/Vue/Svelte/Preact components.
+### Design and Development
+All designs and elements are open source, available for free for anyone to use.
 
-Any static assets, like images, can be placed in the `public/` directory.
+Owned by Rizel Scarlett [(@blackgirlbytes)](https://github.com/blackgirlbytes)
 
-## 🧞 Commands
+Designed by [The Holistic Technologist](https://holistictech.io)
 
-All commands are run from the root of the project, from a terminal:
+Illustrations by [Cuoc Doi Prints](https://www.cuocdoiprints.com)
 
-| Command                | Action                                           |
-| :--------------------- | :----------------------------------------------- |
-| `npm install`          | Installs dependencies                            |
-| `npm run dev`          | Starts local dev server at `localhost:3000`      |
-| `npm run build`        | Build your production site to `./dist/`          |
-| `npm run preview`      | Preview your build locally, before deploying     |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro --help` | Get help using the Astro CLI                     |
+Feel free to fork, copy, tweak, and use for any purpose. This project is completely open source, and under [MIT license](https://github.com/blackgirlbytes/blackgyalbites-astro/blob/main/LICENSE). 
 
-## 👀 Want to learn more?
+Menu Design Template: [Canva](https://www.canva.com/design/DAFGhaCejFw/zy2w9ZjXJBZ3NssSdfhpTw/view?utm_content=DAFGhaCejFw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Download Assets & Design Elements: [Google Drive](https://drive.google.com/drive/u/0/folders/12vHecd82FiiphDGSpwRA8cndsdzDy5QG)
+
+![blackgirlbytes logo](https://user-images.githubusercontent.com/22990146/182384548-5af4d85e-3439-449a-bac4-6b213eb6b18c.png)
+
